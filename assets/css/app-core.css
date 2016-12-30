@@ -1,0 +1,64 @@
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    /* Margin bottom by footer height */
+    margin-bottom: 60px;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    /* Set the fixed height of the footer here */
+    height: 60px;
+    line-height: 60px; /* Vertically center the text there */
+    background-color: #263238;
+    color: #fff;
+}
+
+.footer a {
+    font-style: italic;
+}
+.footer a, .footer a:hover {
+    color: #fff;
+}
+
+.footer p {
+    margin-bottom: 0;
+}
+
+/* Bootstrap Overlays
+-------------------------------------------------- */
+
+.bg-blue {
+    background-color: #1ccacd;
+}
+
+.bg-blue, .bg-blue a,
+.navbar-light .navbar-brand,
+.navbar-light .navbar-toggler,
+.navbar-light .navbar-nav .nav-link,
+.navbar-light .navbar-nav .active > .nav-link {
+    color: #fff;
+}
+
+.navbar-light .navbar-nav .active > .nav-link,
+.navbar-light .navbar-nav .active > .nav-link:hover,
+.navbar-light .navbar-nav .nav-link:hover {
+    color: #fff;
+    border-bottom: 2px solid #fff;
+}
+
+/* Sunshine CSS Style
+-------------------------------------------------- */
+
+#tbl_weatherList {
+    height: 450px;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}

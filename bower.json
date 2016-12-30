@@ -1,0 +1,24 @@
+{
+  "name": "angularjs",
+  "authors": [
+    "Phạm Tiến Thành <tienthanh.dqc@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.1",
+    "bootstrap": "v4.0.0-alpha.5",
+    "chart.js": "^2.4.0",
+    "angular-route": "^1.6.1",
+    "font-awesome": "fontawesome#^4.7.0"
+  }
+}

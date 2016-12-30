@@ -1,0 +1,192 @@
+{
+  "city": {
+    "id": 1565022,
+    "name": "Thu Dau Mot",
+    "coord": {
+      "lon": 106.650002,
+      "lat": 10.96667
+    },
+    "country": "VN",
+    "population": 0
+  },
+  "cod": "200",
+  "message": 0.0156,
+  "cnt": 7,
+  "list": [
+    {
+      "dt": 1483070400,
+      "temp": {
+        "day": 26.22,
+        "min": 23,
+        "max": 27.11,
+        "night": 23.23,
+        "eve": 27.11,
+        "morn": 23
+      },
+      "pressure": 1022.34,
+      "humidity": 72,
+      "weather": [
+        {
+          "id": 501,
+          "main": "Rain",
+          "description": "moderate rain",
+          "icon": "10d"
+        }
+      ],
+      "speed": 2.86,
+      "deg": 22,
+      "clouds": 88,
+      "rain": 7.49
+    },
+    {
+      "dt": 1483156800,
+      "temp": {
+        "day": 28.11,
+        "min": 23.28,
+        "max": 29.6,
+        "night": 24.22,
+        "eve": 28.22,
+        "morn": 23.28
+      },
+      "pressure": 1022.12,
+      "humidity": 89,
+      "weather": [
+        {
+          "id": 501,
+          "main": "Rain",
+          "description": "moderate rain",
+          "icon": "10d"
+        }
+      ],
+      "speed": 1.42,
+      "deg": 54,
+      "clouds": 32,
+      "rain": 10.11
+    },
+    {
+      "dt": 1483243200,
+      "temp": {
+        "day": 29.14,
+        "min": 22.64,
+        "max": 30.76,
+        "night": 25.08,
+        "eve": 30.76,
+        "morn": 22.64
+      },
+      "pressure": 1022.47,
+      "humidity": 86,
+      "weather": [
+        {
+          "id": 501,
+          "main": "Rain",
+          "description": "moderate rain",
+          "icon": "10d"
+        }
+      ],
+      "speed": 2.35,
+      "deg": 54,
+      "clouds": 0,
+      "rain": 4.3
+    },
+    {
+      "dt": 1483329600,
+      "temp": {
+        "day": 31.14,
+        "min": 22.2,
+        "max": 31.14,
+        "night": 24.15,
+        "eve": 26.76,
+        "morn": 22.2
+      },
+      "pressure": 1010.04,
+      "humidity": 0,
+      "weather": [
+        {
+          "id": 500,
+          "main": "Rain",
+          "description": "light rain",
+          "icon": "10d"
+        }
+      ],
+      "speed": 1.07,
+      "deg": 2,
+      "clouds": 14,
+      "rain": 0.74
+    },
+    {
+      "dt": 1483416000,
+      "temp": {
+        "day": 29.92,
+        "min": 23.11,
+        "max": 29.92,
+        "night": 23.11,
+        "eve": 24.68,
+        "morn": 24.57
+      },
+      "pressure": 1006.13,
+      "humidity": 0,
+      "weather": [
+        {
+          "id": 501,
+          "main": "Rain",
+          "description": "moderate rain",
+          "icon": "10d"
+        }
+      ],
+      "speed": 5.74,
+      "deg": 4,
+      "clouds": 90,
+      "rain": 4.71
+    },
+    {
+      "dt": 1483502400,
+      "temp": {
+        "day": 27.31,
+        "min": 22.94,
+        "max": 27.31,
+        "night": 22.94,
+        "eve": 24.14,
+        "morn": 23.29
+      },
+      "pressure": 1007.77,
+      "humidity": 0,
+      "weather": [
+        {
+          "id": 501,
+          "main": "Rain",
+          "description": "moderate rain",
+          "icon": "10d"
+        }
+      ],
+      "speed": 3.69,
+      "deg": 153,
+      "clouds": 51,
+      "rain": 4.22
+    },
+    {
+      "dt": 1483588800,
+      "temp": {
+        "day": 28.98,
+        "min": 22.66,
+        "max": 28.98,
+        "night": 22.66,
+        "eve": 24.49,
+        "morn": 22.8
+      },
+      "pressure": 1008.85,
+      "humidity": 0,
+      "weather": [
+        {
+          "id": 501,
+          "main": "Rain",
+          "description": "moderate rain",
+          "icon": "10d"
+        }
+      ],
+      "speed": 2.14,
+      "deg": 105,
+      "clouds": 24,
+      "rain": 7.31
+    }
+  ]
+}
